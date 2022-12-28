@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99dd68fd.css",
+    "main.js": "/static/js/main.7859da52.js",
+    "static/media/main.png": "/static/media/main.42446f458a4f39513a79.png",
+    "static/media/polandLanguage.png": "/static/media/polandLanguage.a4d9e2bd9349422965fb.png",
+    "static/media/krakov.png": "/static/media/krakov.fa27579a57fd6195ee74.png",
+    "static/media/karkiveconom.png": "/static/media/karkiveconom.a80b0843383f70bf9383.png",
+    "static/media/yagelon.png": "/static/media/yagelon.ebcd1c5c0bffa8d2bb01.png",
+    "static/media/vincentPolya.png": "/static/media/vincentPolya.5fb68c19200f98e59525.png",
+    "static/media/managementTech.png": "/static/media/managementTech.fc309179ffe5c9abc886.png",
+    "static/media/skadovska.png": "/static/media/skadovska.30beb02ae81e72e0d083.png",
+    "static/media/japanUni.png": "/static/media/japanUni.69294715625f892f8b19.png",
+    "static/media/vistula.png": "/static/media/vistula.40f14bedc3fcdb02f70f.png",
+    "static/media/mickevich.png": "/static/media/mickevich.dadc7d87916ff2b540f2.png",
+    "static/media/medKuri.png": "/static/media/medKuri.ab9682bb3ab3b2468b5a.png",
+    "static/media/vroclav.png": "/static/media/vroclav.f429879bcf0acee24c65.png",
+    "static/media/kosmetolog.png": "/static/media/kosmetolog.5b3d971e7ae21032799b.png",
+    "static/media/logicPoznan.png": "/static/media/logicPoznan.6375a77c19ec5514e789.png",
+    "static/media/varshava.png": "/static/media/varshava.04f170b4294512aace47.png",
+    "static/media/bankUni.png": "/static/media/bankUni.2c1c4c4f49b1f5b0c70e.png",
+    "index.html": "/index.html",
+    "main.99dd68fd.css.map": "/static/css/main.99dd68fd.css.map",
+    "main.7859da52.js.map": "/static/js/main.7859da52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99dd68fd.css",
+    "static/js/main.7859da52.js"
+  ]
+}
